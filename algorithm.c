@@ -1,4 +1,5 @@
 /*
+ *双指针的用法
  *删除排序数组中的重复项
  */
 int removeDuplicates(int *nums, int numSizes)
